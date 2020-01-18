@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:id="@+id/pengaturan"
+            android:title="Pengaturan"
+            android:icon="@drawable/ic_pengaturan"/>
+
+        <item
+            android:id="@+id/alat_musik"
+            android:title="Game Musik"
+            android:icon="@drawable/ic_game"/>
+
+    </group>
+
+    <item android:title="Lainnya">
+
+    <menu>
+
+        <item
+            android:id="@+id/about"
+            android:title="Tentang"
+            android:icon="@drawable/ic_person_black_24dp"/>
+
+        <item
+            android:id="@+id/keluar"
+            android:title="Keluar"
+            android:icon="@drawable/ic_about"/>
+
+
+
+    </menu>
+
+    </item>
+</menu>

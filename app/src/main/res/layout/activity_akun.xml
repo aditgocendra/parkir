@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.trex.parkirBDL.AkunActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar_back_akun"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_marginLeft="220dp"
+                android:layout_marginTop="120dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_camera"
+                android:elevation="2dp"
+                />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_marginTop="30dp"
+                    android:layout_gravity="center"
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profile_image"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/ic_user_24dp"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/secondaryColor"
+                    android:layout_centerInParent="true"/>
+
+
+                <View
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:visibility="visible"
+                    android:layout_height="2dp"
+                    android:background="@color/secondaryTextColor"/>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_user_24dp"/>
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Reky Pratama"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+
+                        />
+
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:visibility="visible"
+                    android:layout_height="2dp"
+                    android:background="@color/secondaryTextColor"/>
+
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_user_24dp"/>
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="BE 3726OF"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+
+                        />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:visibility="visible"
+                    android:layout_height="2dp"
+                    android:background="@color/secondaryTextColor"/>
+
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_user_24dp"/>
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0898989768"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+
+                        />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:visibility="visible"
+                    android:layout_height="2dp"
+                    android:background="@color/secondaryTextColor"/>
+
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_user_24dp"/>
+
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kata Sandi"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+
+                        />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:visibility="visible"
+                    android:layout_height="2dp"
+                    android:background="@color/secondaryTextColor"/>
+
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

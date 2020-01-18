@@ -1,0 +1,29 @@
+<resources>
+
+
+    <string name="app_name">Parkir Bandar Lampung</string>
+
+    <string name="facebook_app_id">553026208788899</string>
+    <string name="fb_login_protocol_scheme">fb553026208788899</string>
+
+    <string name="email">Email Anda</string>
+    <string name="kataSandi">Kata Sandi</string>
+    <string name="konfirmasi">Konfirmasi Kata Sandi</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+
+
+    <string name="pilih_kecamatan">Pilih Kecamatan</string>
+
+    <string-array name="list_kecamatan">
+        <item>Kedaton</item>
+        <item>Rajabasa</item>
+        <item>Bumi Waras</item>
+        <item>Tanjung Karang Pusat</item>
+        <item>Enggal</item>
+        <item>Labuhan Ratu</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

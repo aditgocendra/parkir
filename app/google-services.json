@@ -1,0 +1,141 @@
+{
+  "project_info": {
+    "project_number": "396019016378",
+    "firebase_url": "https://parkir-bandar-lampung.firebaseio.com",
+    "project_id": "parkir-bandar-lampung",
+    "storage_bucket": "parkir-bandar-lampung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396019016378:android:def176e37880953999d883",
+        "android_client_info": {
+          "package_name": "com.trex.parkirBDL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396019016378-57m5mb3ml4gagev21f6r2824d1dqfj5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirBDL",
+            "certificate_hash": "6fc31a7993fed8f7194e95e28c943866dc69affd"
+          }
+        },
+        {
+          "client_id": "396019016378-be0fh6m6cvt5eik1p0l7546mjdgomnvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirBDL",
+            "certificate_hash": "d629627f13c2fa53c2a8cc21a2fe95e9b6670fa9"
+          }
+        },
+        {
+          "client_id": "396019016378-kvl7grg1nhbum2vsi8snv8ci8067ce80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirBDL",
+            "certificate_hash": "8c1d86d57ce4b639fb1bcfd34e5115756848f825"
+          }
+        },
+        {
+          "client_id": "396019016378-v3rqhtcjb1jo577kf8n54fm3j2vq8u8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzW_jr2raGYtDpRqhDbMZ5djQ2emgc-hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396019016378-v3rqhtcjb1jo577kf8n54fm3j2vq8u8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396019016378:android:744467cf666a9a1f99d883",
+        "android_client_info": {
+          "package_name": "com.trex.parkirbandarlampung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396019016378-h7a75p4gdda8n8s92ql1i13daunvdta0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "26e5c4e4be000acf68f1cb352bb08cf0a31d0d69"
+          }
+        },
+        {
+          "client_id": "396019016378-4k3tj3uhfv5484dfro8lkepjojlq5lsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "0d99938326bf38534a9dca8e0eaf91f308bc217c"
+          }
+        },
+        {
+          "client_id": "396019016378-rs2gpgjakru2feidr3bilan9da5p3m5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "da8b49471b4856a716597078607eb9256a36075c"
+          }
+        },
+        {
+          "client_id": "396019016378-pphonm5sksaolal7b4d4bb67mrvb078k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "b1f3efa32478ad7ce78264e4ff66d1257faa218d"
+          }
+        },
+        {
+          "client_id": "396019016378-i2g5k8mefohkca6v3t94m4mke0ua5q15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "16de78ac97b8117ddb21e220e2ac61bb161cb247"
+          }
+        },
+        {
+          "client_id": "396019016378-bsj66mfqhuq33uiljaif8qqc8rjf8ifs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trex.parkirbandarlampung",
+            "certificate_hash": "f37d55324110d8782c4240f549c42d3614e61b19"
+          }
+        },
+        {
+          "client_id": "396019016378-v3rqhtcjb1jo577kf8n54fm3j2vq8u8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzW_jr2raGYtDpRqhDbMZ5djQ2emgc-hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396019016378-v3rqhtcjb1jo577kf8n54fm3j2vq8u8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
